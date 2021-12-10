@@ -1,4 +1,6 @@
-# Global Infrastructure
+# AWS Building Blocks
+
+## Global Infrastructure
 - 24 Regions
 - 77 Availability Zones
 
