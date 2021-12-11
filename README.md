@@ -5,3 +5,8 @@
 - [AWS Well-Architected Framework ](aws-fundamentals/aws-well-architected-framework.md)
 - [Key AWS Services](aws-fundamentals/key-aws-services.md)
 - [Shared Responsibility Model](aws-fundamentals/shared-responsibility-model.md)
+
+## Identity and Access Management (IAM)
+- [IAM Fundamentals](iam/iam-fundamentals.md)
+- [IAM Policy Documents](iam/iam-policy-documents.md)
+- [Managing IAM Credentails](iam/managing-iam-credentials.md)
