@@ -9,9 +9,9 @@
 
 ![](2021-12-11-11-05-45.png)
 
-     - Effect: Allow or Deny
-     - Action:  What the user can do
-     - Reource:  What resource is impacted
+- Effect: Allow or Deny
+- Action:  What the user can do
+- Reource:  What resource is impacted
 
 - IAM Policy Documents can be assigned to:
     - Groups
