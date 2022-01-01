@@ -1,4 +1,5 @@
 # AWS Certified Solutions Architect - Associate (SAA-C02) Exam Notes
+Exam scheduled 4/29/2021
 
 ## AWS Fundamentals
 - [AWS Building Blocks](aws-fundamentals/aws-building-blocks.md)
@@ -21,3 +22,6 @@
 - [Encryption](s3/encryption.md)
 - [Performance](s3/performance.md)
 - [Replication](s3/replication.md)
+
+## EC2
+- [Overview](ec2/overview.md)
