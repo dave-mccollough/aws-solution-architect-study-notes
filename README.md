@@ -1,18 +1,23 @@
 # AWS Certified Solutions Architect - Associate (SAA-C02) Exam Notes
+
 Exam scheduled 4/29/2021
 
 ## AWS Fundamentals
+
 - [AWS Building Blocks](aws-fundamentals/aws-building-blocks.md)
 - [AWS Well-Architected Framework ](aws-fundamentals/aws-well-architected-framework.md)
 - [Key AWS Services](aws-fundamentals/key-aws-services.md)
 - [Shared Responsibility Model](aws-fundamentals/shared-responsibility-model.md)
 
 ## Identity and Access Management (IAM)
+
 - [IAM Fundamentals](iam/iam-fundamentals.md)
 - [IAM Policy Documents](iam/iam-policy-documents.md)
 - [Managing IAM Credentails](iam/managing-iam-credentials.md)
+- [IAM Exam Tips](iam/iam-exam-tips.md)
 
 ## S3
+
 - [Overview](s3/overview.md)
 - [Security](s3/security.md)
 - [Versioning](s3/versioning.md)
@@ -22,6 +27,8 @@ Exam scheduled 4/29/2021
 - [Encryption](s3/encryption.md)
 - [Performance](s3/performance.md)
 - [Replication](s3/replication.md)
+- [S3 Exam Tips](s3/s3-exam-tips.md)
 
 ## EC2
+
 - [Overview](ec2/overview.md)
