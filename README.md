@@ -32,3 +32,7 @@ Exam scheduled 10/6/2022
 ## EC2
 
 - [Overview](ec2/overview.md)
+- [Command Line](ec2/iam-roles.md)
+- [IAM Roles](ec2/overview.md)
+- [Security Groups](ec2/security-groups.md)
+- [Metadata and User data](ec2/metadata-and-userdata.md)
