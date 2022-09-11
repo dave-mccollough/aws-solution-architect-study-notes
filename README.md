@@ -1,6 +1,6 @@
 # AWS Certified Solutions Architect - Associate (SAA-C02) Exam Notes
 
-Exam scheduled 10/6/2022
+Exam scheduled 2023
 
 ## AWS Fundamentals
 
