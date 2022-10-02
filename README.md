@@ -36,3 +36,7 @@ Exam scheduled 10/6/2022
 - [IAM Roles](ec2/overview.md)
 - [Security Groups](ec2/security-groups.md)
 - [Metadata and User data](ec2/metadata-and-userdata.md)
+- [Networking with EC2](ec2/networking-with-ec2.md)
+- [EC2 Placement Groups](ec2/ec2-placement-groups.md)
+- [Licensing for Dedicated Hosts](ec2/dedicated-host-licensing.md)
+- [Spot Instances](ec2/spot-instances.md)
