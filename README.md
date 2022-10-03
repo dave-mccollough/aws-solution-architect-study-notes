@@ -40,3 +40,12 @@ Exam scheduled 10/28/2022
 - [EC2 Placement Groups](ec2/ec2-placement-groups.md)
 - [Licensing for Dedicated Hosts](ec2/dedicated-host-licensing.md)
 - [Spot Instances](ec2/spot-instances.md)
+
+## EBS
+
+- [Overview](ebs/overview.md)
+- [Volumes and Snapshots](ebs/volumes-snapshots.md)
+- [EBS Encryption](ebs/encryption.md)
+- [Hibernation](ebs/hibernaton.md)
+- [EFS Overview](ebs/efs-overview.md)
+- [FSx Overview](ebs/fsx-overview.md)
