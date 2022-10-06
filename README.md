@@ -49,3 +49,5 @@ Exam scheduled 10/28/2022
 - [Hibernation](ebs/hibernaton.md)
 - [EFS Overview](ebs/efs-overview.md)
 - [FSx Overview](ebs/fsx-overview.md)
+- [Amazon Machine Images](ebs/amazon-machine-images.md)
+- [AWS Backup](ebs/aws-backup.md)
