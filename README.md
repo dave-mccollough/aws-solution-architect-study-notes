@@ -1,6 +1,6 @@
-# AWS Certified Solutions Architect - Associate (SAA-C02) Exam Notes
+# AWS Certified Solutions Architect - Associate (SAA-C03) Exam Notes
 
-Exam scheduled 10/28/2022
+Exam scheduled 12/30/2022
 
 ## AWS Fundamentals
 
@@ -32,8 +32,8 @@ Exam scheduled 10/28/2022
 ## EC2
 
 - [Overview](ec2/overview.md)
-- [Command Line](ec2/iam-roles.md)
-- [IAM Roles](ec2/overview.md)
+- [Command Line](ec2/command-line.md)
+- [IAM Roles](ec2/iam-roles.md)
 - [Security Groups](ec2/security-groups.md)
 - [Metadata and User data](ec2/metadata-and-userdata.md)
 - [Networking with EC2](ec2/networking-with-ec2.md)
@@ -51,3 +51,7 @@ Exam scheduled 10/28/2022
 - [FSx Overview](ebs/fsx-overview.md)
 - [Amazon Machine Images](ebs/amazon-machine-images.md)
 - [AWS Backup](ebs/aws-backup.md)
+
+## RDS
+
+- [Overview](rds/overview.md)
