@@ -54,7 +54,7 @@ Exam scheduled 3/24/2023
 
 ## Databases
 
-- [Relation Database Service (RDS) Overview](6-databases/overview.md)
+- [Relation Database Service (RDS) Overview](6-databases/1-overview.md)
 - [Read Replicas](6-databases/2-read-replicas.md)
 - [Amazon Aurora](6-databases/3-amazon-aurora.md)
 - [DynamoDB](6-databases/4-dynamodb.md)
